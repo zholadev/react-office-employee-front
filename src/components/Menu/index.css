@@ -1,0 +1,44 @@
+.menu {
+  width: 100%;
+  position: relative;
+  max-width: 264px;
+  height: 100vh;
+  background: #f1f3f8;
+  margin: 0;
+}
+
+.logo-place {
+  padding-top: 29px;
+}
+
+.nav-link {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration: none !important;
+  color: #404b69;
+}
+
+.nav {
+  margin-top: 133px;
+  padding-left: 45px;
+}
+
+ul {
+  list-style: none;
+}
+
+.nav-item {
+  margin-bottom: 33px;
+}
+
+.platform-index {
+  width: 221px;
+  margin-top: 200px;
+  height: 76px;
+  background: #d6e0f0;
+  border-radius: 20px;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+}

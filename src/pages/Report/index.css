@@ -1,0 +1,12 @@
+.month-subtitle {
+  font-size: 24px;
+  line-height: 29px;
+  color: #404b69;
+}
+
+.month {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  color: #3490de;
+}

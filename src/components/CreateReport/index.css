@@ -1,0 +1,36 @@
+.form {
+  width: 100%;
+  max-width: 832px;
+  height: auto;
+  background: #3490de;
+}
+
+.classic-inp {
+  width: 100%;
+  max-width: 364px;
+  height: 40px;
+  background: #ffffff;
+  border: none;
+  outline: none;
+  padding: 0 18px;
+}
+
+.label {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #ffffff;
+}
+
+.btn-send {
+  width: 240px;
+  height: 46px;
+  background: #f73859;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #ffffff;
+}
